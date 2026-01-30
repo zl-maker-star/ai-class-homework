@@ -1,0 +1,6 @@
+print("\n ")
+print('Math test: choose the correct answer')
+print('Find the correct answer to 5*4:\nA] ',5+4,'\nB] ',5*4,'\nC] ',6*4,'\nD] ',18)
+print('Find the correct answer to 6*3:\nA] ',6+3,'\nB] ',6-3,'\nC] ',6*3,'\nD] ',24)
+print('Find the correct answer to 5*8:\nA] ',8+5,'\nB] ',8-5,'\nC] ',6*8,'\nD] ',40)
+print('Find the correct answer to 10*9:\nA] ',10*9,'\nB] ',10-9,'\nC] ',10*8,'\nD] ',80)
