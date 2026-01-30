@@ -28,6 +28,7 @@ def run_script_with_input(value: int) -> str:
         (0, ""),
         (7, "Boom"),
         (777, "Boom"),
+        (14, "Boom"),  # divisible by 7, no digit 7
         (1523, ""),
         (444, ""),
         (175714, "Boom"),
